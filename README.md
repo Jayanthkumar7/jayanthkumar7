@@ -2,9 +2,26 @@
 <h1 align="center">👋 Hi, I'm <strong>Jayanth N</strong></h1>
 <h3 align="center">Machine Learning • Deep Learning • Data Science</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Neural+Networks;Passionate+Learner+%26+Tech+Explorer&center=true&width=600&height=50">
-</p>
+### ⚙️ Tech Stack
+
+#### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🧠 ML / DL
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/SkLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### ⚙ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
