@@ -2,6 +2,14 @@
 <h1 align="center">👋 Hi, I'm <strong>Jayanth N</strong></h1>
 <h3 align="center">Machine Learning • Deep Learning • Data Science</h3>
 
+<p align="center">
+
+
+6		-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Neural+Networks;Passionate+Learner+%26+Tech+Explorer&center=true&width=600&height=50">
+7		-
+</p>
+
 ### ⚙️ Tech Stack
 
 #### 🚀 Languages
@@ -27,15 +35,6 @@
 
 ### 🚀 About Me
 
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,git,github,pandas,numpy,html,javascript,css&perline=3" />
-</p>
-
----
 
 
 
