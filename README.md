@@ -3,7 +3,7 @@
 <h3 align="center">Machine Learning • Deep Learning • Data Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Neural+Networks+%7C+Time+Series+Forecasting;Ocean+Data+Prediction+Researcher;Passionate+Learner+%26+Tech+Explorer&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Neural+Networks;Passionate+Learner+%26+Tech+Explorer&center=true&width=600&height=50">
 </p>
 
 ---
