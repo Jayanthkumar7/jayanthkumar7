@@ -5,7 +5,6 @@
 <p align="center">
 
 
-6		-
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Neural+Networks;Passionate+Learner+%26+Tech+Explorer&center=true&width=600&height=50">
 7		-
 </p>
